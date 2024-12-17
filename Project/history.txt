@@ -1,0 +1,535 @@
+1  sudo apt update
+    2  sudo apt upgrade
+    3  ifconfig
+    4  sudo apt install net-tools
+    5  gcc --version
+    6  sudo apt install gcc
+    7  sudo apt install g++
+    8  gcc --version
+    9  g++ version
+   10  g++ --version
+   11  java -version
+   12  java --version
+   13  sudo apt install openjdk-8-jre-headless
+   14  jaavc
+   15  sudo apt install openjdk-8-jdk-headless
+   16  javac
+   17  java -version
+   18  clear
+   19  gedit sample.c
+   20  gcc sample.c
+   21  ./a.out
+   22  gedit swap.c
+   23  gcc swap.c
+   24  ./a.out
+   25  gedit integer.cpp
+   26  g++ integer.cpp
+   27  ./a.out
+   28  gedit HellWorld.java
+   29  javac HelloWorld.java
+   30  ls
+   31  javac HellWorld.java
+   32  java HellWorld
+   33  java HellWorld.java
+   34  gedit GFG.java
+   35  javac GFG.java
+   36  java GFG.java
+   37  java GFG
+   38  javac HellWorld.java
+   39  java HellWorld
+   40  javac HelloWorld.java
+   41  java HelloWorld
+   42  gedit HelloWorld.java
+   43  javac HelloWorld.java
+   44  java Helloworld
+   45  java Helloworld.java
+   46  javac
+   47  java -version
+   48  javac GFG.java
+   49  java GFG
+   50  cd Downloads/
+   51  ls
+   52  javac DigitalClock.java
+   53  appletviewer DigitalClock
+   54  sudo apt install openjdk-8-jdk
+   55  javac DigitalClock.java
+   56  appletviewer DigitalClock
+   57  javac DigitalClock.java
+   58  cd Downloads/
+   59  javac DigitalClock.java
+   60  appletviewer DigitalClock
+   61  appletviewer DigitalClock.java
+   62  javac GraphicsDemo.java
+   63  appletviewer GraphicsDemo.java
+   64  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   65  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   66  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   67  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   68  ifconfig
+   69  su administrator
+   70  sudo bash
+   71  vim
+   72  sudo apt install vim  
+   73  touch test.txt
+   74  vim test.txt
+   75  vim 
+   76  vi vimtest.txt
+   77  cat vimtest.txt
+   78  grep "heyy" vimtest.txt
+   79  grep "Heyy"-e vimtest.txt
+   80  grep "Heyy"-e" vimtest.txt
+   81  grep -e "Heyy" -e "h"* vimtest.txt
+   82  grep -l -e "There" -e "t" vimtest.txt
+   83  grep -e "heyy" -e "t" vimtest.txt
+   84  grep -l -e "heyyyy" -e "t" vimtest.txt
+   85  grep ^cloud vimtest.txt
+   86  grep "heyyy $"
+   87  grep "heyy$"
+   88  mkdir cloud
+   89  cd cloud
+   90  touch file.txt
+   91  touch file1.txt
+   92  mv vimtest.txt file1.txt
+   93  grep -r "computing" cloud
+   94  cd..
+   95  cd ..
+   96  grep -r "computing" cloud
+   97  cd ..
+   98  cd cloud
+   99  .. cd
+  100  mkdir cloud
+  101  cat vimtest.txt
+  102  vimtest.txt
+  103  grep "heyyyy" vimtest.txt | wc -l
+  104  cat vimtest.txt
+  105  cat vim test.txt
+  106  mkdir dir1 | touch file.txt
+  107  mkdir dir8 | touch file8.txt
+  108  mkdir dir8
+  109  touch lakshu.txt
+  110  ls
+  111  cd home
+  112  ls
+  113  cd administrator
+  114  ls
+  115  cd DEsktop
+  116  cd Desktop
+  117  ls
+  118  cd cloud
+  119  cd ..
+  120  cd cloud
+  121  ls
+  122  clear
+  123  ls
+  124  cat file.txt
+  125  cat vim.txt
+  126  cd ..
+  127  cat vimtest.txt
+  128  cat vimtest.txt |wc -c
+  129  ls -l
+  130  cat /etc/passwd
+  131  cat vimtest.txt |wc -c
+  132  cat /
+  133  cat /tac/passwd
+  134  cd /etc/passwd
+  135  cat /
+  136  cat /etc/passwd
+  137  cat > file.txt
+  138  cd /
+  139  sudo useradd username
+  140  cd /
+  141  sudo useradd sreelakshmi
+  142  su sreelakshmi
+  143  sudo passwd sreelakshmi
+  144  touchfile.txt
+  145  cd ..
+  146  cd Desktop
+  147  cd /
+  148  ls
+  149  cd home
+  150  ls
+  151  cd sreelakshmi
+  152  cd Desktop
+  153  cd skacas
+  154  cd Desktop
+  155  cd..
+  156  cd ..
+  157  cd administrator
+  158  cd home
+  159  ls
+  160  cd administrator
+  161  cd Desktop
+  162  touchfile.txt
+  163  touch file.txt
+  164  su sreelakshmi
+  165  sudo userdel sreelakshmi
+  166  sudo userdel -f sreelakshmi
+  167  cat /etc/passwd
+  168  sudo user del -f username
+  169  sudo userdel -f username
+  170  cat / etc/passwd
+  171  cat /etc/passwd
+  172  ls
+  173  cd..
+  174  cd ..
+  175  cd /
+  176  sudo useradd sree lakshmi
+  177  nano script.sh
+  178  cd /
+  179  ls
+  180  cd home
+  181  ls
+  182  cd administrator
+  183  ls
+  184  cd Desktop
+  185  touch file.txt
+  186  nano script.sh
+  187  [A
+  188  nano script.sh
+  189  ./script1.sh
+  190  nano script.sh
+  191  ./script.sh
+  192  chmod +x script1.sh
+  193  chmod +x script.sh
+  194  ./script.sh
+  195  nano script.sh
+  196  ./script.sh
+  197  nano script.sh
+  198  ./script.sh
+  199  nano script.sh
+  200  ./scriopt.sh
+  201  ./script.sh
+  202  nano script.sh
+  203  ./script.sh
+  204  nano script.sh
+  205  ./script.sh
+  206  nano script.sh
+  207  ./script.sh
+  208  nano script.sh
+  209  ./script.h
+  210  nano script.sh
+  211  ./script.h
+  212  nano script.sh
+  213  ./script.h
+  214  nano script.sh
+  215  ./script.h
+  216  nano script.sh
+  217  ./script.h
+  218  nano script.sh
+  219  ./script.h
+  220  nano script.sh
+  221  ./script.h
+  222  nano script.sh
+  223  ./script.h1
+  224  nano script.sh1
+  225  ./script.h1
+  226  nano script.sh1
+  227  ./script.h1
+  228  nano script.sh
+  229  ./script.SH
+  230  ./script.sh
+  231  cd..
+  232  cd ..
+  233  ps
+  234  top
+  235  q
+  236  nano script.h
+  237  ./script.h
+  238  chmode +x script1.sh
+  239  cd desktop
+  240  nano script.h
+  241  cd /
+  242  nano script.h
+  243  cd /
+  244  ls
+  245  cd home
+  246  ls
+  247  sudo apt update
+  248  sudo apt install git
+  249  git --vesion
+  250  git --version
+  251  cd /
+  252  cd /mnt/d
+  253  cd /
+  254  ls
+  255  cd home
+  256  ls
+  257  cd adminstrator
+  258  cd administrator
+  259  ls
+  260  cd desktop
+  261  cd  Desktop
+  262  mkdir cloud
+  263  ls
+  264  git --version
+  265  cd cloud
+  266  git init
+  267  git config --list
+  268  git config --global user.name "sreelakshmi"
+  269  git config --list
+  270  git config --global user.email "sreelakshmivp229@gmail.com"
+  271  git config --list
+  272  git config --global init.default Branch main
+  273  git config --list
+  274  git config --global core.eol lf
+  275  git config --global init.defaultBranch main
+  276  git config --list
+  277  git config --global core.ignorecase true
+  278  git config --list
+  279  git config --global core.autocrlf input
+  280  git config --list
+  281  ls
+  282  git clone https://github.com/SreelakshmiVP/Democloud.git
+  283  ls
+  284  cd Democloud
+  285  touch file.txt
+  286  ls
+  287  git add file.txt
+  288  cat > file.txt
+  289  ls
+  290  cd Desktop
+  291  ls
+  292  cd cloud
+  293  ls
+  294  cd Democloud
+  295  ls
+  296  cat file.txt
+  297  git add file.txt
+  298  git commmit -m "first commit"
+  299  git commit -m "first commit"
+  300  git status
+  301  git push origin main
+  302  git remote -v
+  303  git remote set-url origin"https://"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@github.com/sreelakshmivp/Democloud
+  304  git remote set-url origin "https://"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@github.com/sreelakshmivp/Democloud"
+  305  git remote set-url origin "https://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@github.com/sreelakshmivp/Democloud"
+  306  git remote -v
+  307  git push origin main
+  308  git commit -v
+  309  cat file.txt
+  310  cd ..
+  311  cd /
+  312  ls
+  313  cd home
+  314  ls
+  315  cd administrator
+  316  ls
+  317  cd Desktop
+  318  mkdir git
+  319  cd git
+  320  git init
+  321  cd Desktop
+  322  cd ..
+  323  ls
+  324  cd git
+  325  ls
+  326  git innit
+  327  git init
+  328  git config --list
+  329  git clone "https://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@github.com/sreelakshmivp/gittest.git"
+  330  cd gittest
+  331  cat > text.txt
+  332  testing git !
+  333  git status
+  334  git add text.txt
+  335  git status
+  336  git push origin main
+  337  git commit -v
+  338  git commit -m "test commit"
+  339  git status
+  340  git push origin main
+  341  history
+  342  cd /
+  343  ls
+  344  cd home
+  345  ls
+  346  cd administrator
+  347  ls
+  348  cd Desktop
+  349  mkdir video projects
+  350  cd ..
+  351  cd Desktop
+  352  mkdir videoprojects
+  353  cd videoprojects
+  354  mkdir january
+  355  mkdir february
+  356  mkdir march
+  357  mkdir april
+  358  mkdir may
+  359  mkdir june
+  360  mkdir july
+  361  mkdir august
+  362  mkdir september
+  363  mkdir october
+  364  mkdir november
+  365  mkdir december
+  366  cd jan
+  367  cd january
+  368  touch projectday1.mp4
+  369  cd february
+  370  cd..
+  371  cd ..
+  372  cd february
+  373  touch projectday2.mp4
+  374  cd ..
+  375  cd march
+  376  touch projectday3.mp4
+  377  cd ..
+  378  cd april
+  379  touch projectday4.mp4
+  380  cd may
+  381  cd ..
+  382  cd june
+  383  touch projectday5.mp4
+  384  cd ..
+  385  cd july
+  386  touch projectday6.mp4
+  387  cd ..
+  388  cd august
+  389  touch projectday7.mp4
+  390  cd ..
+  391  cd september
+  392  touch project8.mp4
+  393  cd ..
+  394  cd march
+  395  cd ..
+  396  cd may 
+  397  touch projectday5.mp4
+  398  cd ..
+  399  cd june
+  400  touch projectday6.mp4
+  401  cd ..
+  402  cd july
+  403  touch projectday7.mp4
+  404  cd ..
+  405  cd august
+  406  touch projectday8.mp4
+  407  cd ..
+  408  cd september
+  409  touch projectday9.mp4
+  410  cd ..
+  411  cd october
+  412  touch projectday10.mp4
+  413  cd ..
+  414  cd november
+  415  touch projectday11.mp4
+  416  cd ..
+  417  cd december
+  418  touch projectday12.mp4
+  419  cd ..
+  420  ls
+  421  pwd
+  422  mv projectday1.mp4/home/administrator/Desktop/videprojects
+  423  mv projectday1.mp4 /home/administrator/Desktop/videoprojects/january/february
+  424  mv projectday1.mp4 /home/administrator/Desktop/videoprojects/february
+  425  mv projectday1.mp4/home/administrator/Desktop/videoprojects/january/february
+  426  cd january
+  427  mv projectday1.mp4/home/administrator/Desktop/videoprojects/january/february
+  428  mv projectday1.mp4 /home/administrator/Desktop/videoprojects/january/february
+  429  mv projectday1.mp4 footageday1.mp4
+  430  cd ..
+  431  cd january
+  432  cd ..
+  433  cd march
+  434  mv projectday3.mp4 footageday3.mp4
+  435  cd ..
+  436  ls
+  437  ls -l
+  438  ls -al
+  439  chmod 777 march
+  440  chmod 777 ls
+  441  chmod 777 march
+  442  ls
+  443  chmod 777 march
+  444  ls-al
+  445  ls -l
+  446  cd march
+  447  chmod 777 footageday3.mp4
+  448  ls
+  449  ls -al
+  450  cd ..
+  451  cd february
+  452  rm projectday2.mp4
+  453  cd ..
+  454  rm february
+  455  rm -r february
+  456  nano
+  457  mkdir backup
+  458  cd ..
+  459  mkdir backup
+  460  cp videprojects backup
+  461  cp -r videoprojects backup
+  462  cd march
+  463  cd videoprojects
+  464  cd march
+  465  nano script.h
+  466  cd..
+  467  cd ..
+  468  touch file.txt
+  469  vim
+  470  vim file.txt
+  471  nano script.sh
+  472  sh script.sh
+  473  nano script.sh
+  474  git history
+  475  git
+  476  history 20
+  477  top
+  478  touch file.txt
+  479  t
+  480  ll fil.txt
+  481  ll file.txt
+  482  history
+  483  cd /
+  484  cd home
+  485  cd administrator
+  486  cd home
+  487  ls
+  488  cd ..
+  489  ls
+  490  cd administrator
+  491  cd Desktop
+  492  ls
+  493  cd videoprojects
+  494  cd ..
+  495  nano script.h
+  496  nano script.sh
+  497  nano script1.sh
+  498  ./script1.sh
+  499  chmode +x script1.sh
+  500  ./script1.sh
+  501  ll
+  502  chmode +x script.sh
+  503  chmode +x +w script1.sh
+  504  chmod +x script1.sh
+  505  ./script1.sh
+  506  nano script1.sh
+  507  ./script1.sh
+  508  cat vimfile.txt
+  509  cat file.txt
+  510  grep -i "replace" file.txt
+  511  grep -i "replace" file.txt|wc -l
+  512  grep ls
+  513  grep -l "REPLACE" file.txt
+  514  ls
+  515  cat file.txt
+  516  cd march
+  517  cd videoprojects
+  518  cd march
+  519  cd ..
+  520  cd april
+  521  cd projectday4.mp4
+  522  cat projectday4.mp4
+  523  cat > projectday4.mp4
+  524  cd march
+  525  cd ..
+  526  cd april
+  527  cat >projectday5.mp4
+  528  cd ..
+  529  grep -l "sree"
+  530  grep -l "sree" april|may
+  531  nano script3.sh
+  532  vim
+  533  vim file.txt
+  534  history
+
